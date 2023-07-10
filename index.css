@@ -1,0 +1,59 @@
+body {
+    padding: 5px;
+    text-align: left;
+    background:black;
+    padding: 40px 30px 30px 40px;
+    display:block;
+    font-size: 20px;
+}
+.container{
+    background:#1f2937;
+    margin:auto;
+    width:550px;
+    padding:40px;
+    border-radius: 5px;
+}
+
+#first {
+    color:white;
+    font-weight: bold;
+}
+#second {
+    color:greenyellow;
+    margin-top: -30px;
+}
+#third {
+    margin-top: -10px;
+    color:gray;
+    
+}
+
+.btn {
+    border:none;
+    color:white;
+    background-color: rgb(20, 204, 20);
+    border-radius: 7px;
+    padding:7px;
+
+}
+
+.passwords{
+    display:flex;
+    justify-content: space-around;
+    margin-top:20px;
+    
+}
+
+p {
+    color:white;
+    
+}
+.password{
+    background-color:#273549 ;
+    color:white;
+    font-size:20px;
+    border-radius:6px solid gray;
+    width:200px;
+    height: 50px;
+    border-radius: 7px;;
+}
